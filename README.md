@@ -5,3 +5,5 @@ logg1: idag gick det inte bra. inget fungerade och det slutade med att jag var p
 8/5: Fast på samma plats som igår. Fortsatte leta efter lösningar online men hittade inget och kunde inte be dig om hjälp
 
 14/5: Tror jag har lyckats lösa problemet som jag hade innan, dock kom 2 nya problem fram så jag får undersöka dem mer
+
+15/5: Får fler och fler problem nu. Funderar på att gå tillbaka en lång bit för att försöka lösa dessa.
